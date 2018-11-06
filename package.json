@@ -1,6 +1,6 @@
 {
   "name": "react-native-pixel-perfect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helps you create pixel perfect apps by design",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,8 @@
     "screens",
     "cross platform",
     "cross-platform",
-    "multipule screens"
+    "multipule screens",
+    "responsive"
   ],
   "peerDependencies": {
     "react-native": "*"
